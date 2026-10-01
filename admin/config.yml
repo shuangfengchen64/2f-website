@@ -1,6 +1,5 @@
 backend:
-  name: github
-  repo: shuangfengchen64/2f-website
+  name: git-gateway
   branch: main
 
 media_folder: "assets"
